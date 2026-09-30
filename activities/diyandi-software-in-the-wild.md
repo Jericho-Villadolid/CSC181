@@ -33,7 +33,7 @@
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[My proposed digital tool to help tourists during Diyandi would be map application, with highlighted areas, signifiers, reminders, fare estimations, and all verified event information.]
+[My proposed digital tool to help tourists during Diyandi would be map application. This application would have a simple, clean, and responsive GUI to ensure ease of navigation, with highlighted map areas, signifiers/symbols, reminders, fare estimations, and all verified event information.]
 
 **How would it help the intended users?**  
 [This tool would be a map of the entirety of Iligan City, complete with all the things you would normally find in a map application. With the added functions of: map markers clearly indicating where all events are/will be held (when pressed, will show all available verified information about event such as when, what, etc. in a clean format), routing to destinations via foot/public transport/private vehicle with descriptions on what jeepney/bus takes what route and estimated fare, indicators for when a road or path is currently/planned to be blocked off(such as the plaza during night markets), ability to set notification reminders for upcoming events.]
@@ -44,8 +44,8 @@
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. [Users can easily find and locate festival events through either searching or simply pressing on the clearly labeled event indicator on the map]
+2. [Users can readily prepare for and maanage their expenses after seeing their fare estimate and/or provided information on events with entrance fees and the iike.]
 
 ---
 
@@ -56,7 +56,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 ### Quality 1: [Constantly up to date]
 
 **Why does this matter to users?**  
-[The tool must be a reliable and something something source of information, ]
+[The tool must be a reliable and comprehensive source of information, allowing users to rely solely on this application during the Diyandi festival events. Updating and providing accurate information to users ASAP after events have been announced, changed, or cancelled.]
 
 ### Quality 2: [Language selection options]
 
@@ -69,7 +69,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Asking first-time users of the map tool to provide a star rating and/or review after successfully reaching an event destination via the route system  ]
+[Prompting first-time users of the map tool to provide a star rating and/or review of its usefulness and accuracy of information after successfully reaching an event destination.]
 
 ---
 
