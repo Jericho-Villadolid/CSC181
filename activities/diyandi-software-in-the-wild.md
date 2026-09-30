@@ -12,28 +12,28 @@
 [tourists]
 
 **Why might this group need support during Diyandi?**  
-[During the Diyandi festival, tourists could very easily become confused about the dates, location, time, restrictions, and fees of the many events that happen during the fiesta. Having support for tourists during the biggest festival of the year in Iligan City can have positive effects upon the economy and tourism industry here, which would attract more tourists, and the cycle would continue.]
+[During the Diyandi festival, tourists could very easily become confused about the dates, location, time, restrictions, and fees of the many events that happen during the fiesta. Having support for tourists during the biggest festival of the year in Iligan City will have positive effects on the economy and tourism industry here, which would attract more tourists, and the cycle would continue.]
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+[Tourists would be looking for accomodations, announcements of festival events, routes to those locations, also managing their expenses, and exploring the city during the festivities. Trying to make the most of their stay during Diyandi and avoid getting lost, arriving late.]
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+[Through personal experience during the festival, I lost interest in going to Mugna due to it being moved to a new location in the city that I was unfamiliar with. Only going after a friend offered to take us there after having gone themselves. And the liveliness of the city during the festival could pose a problem to travelers, such as difficulty securing transportation due to the amount of people, and routes or roads being blocked off without their knowing due to festivities.]
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+[My proposed digital tool to help tourists during Diyandi would be map application, with highlighted areas, signifiers, reminders, and all verified event information.]
 
 **How would it help the intended users?**  
 [Explain how the solution responds to the problem you identified.]
@@ -53,15 +53,15 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: [Write a quality]
+### Quality 1: [Constantly up to date]
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+[The tool must be a reliable and something something source of information, ]
 
-### Quality 2: [Write a quality]
+### Quality 2: [Language selection options]
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+[Since my proposed tool is aimed at helping tourists in Iligan City, having proper localization is incredibly important. Enabling a larger variety of cultures ease of use would greatly affect the amount of people who would actually be willing to use this tool. Since some other cultures use different formatting of dates, time, etc., or even symbols having different meanings. ]
 
 ---
 
@@ -92,7 +92,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
