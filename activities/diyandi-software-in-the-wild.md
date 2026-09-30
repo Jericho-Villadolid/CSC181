@@ -33,10 +33,10 @@
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[My proposed digital tool to help tourists during Diyandi would be map application, with highlighted areas, signifiers, reminders, and all verified event information.]
+[My proposed digital tool to help tourists during Diyandi would be map application, with highlighted areas, signifiers, reminders, fare estimations, and all verified event information.]
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+[This tool would be a map of the entirety of Iligan City, complete with all the things you would normally find in a map application. With the added functions of: map markers clearly indicating where all events are/will be held (when pressed, will show all available verified information about event such as when, what, etc. in a clean format), routing to destinations via foot/public transport/private vehicle with descriptions on what jeepney/bus takes what route and estimated fare, indicators for when a road or path is currently/planned to be blocked off(such as the plaza during night markets), ability to set notification reminders for upcoming events.]
 
 ---
 
@@ -61,7 +61,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 ### Quality 2: [Language selection options]
 
 **Why does this matter to users?**  
-[Since my proposed tool is aimed at helping tourists in Iligan City, having proper localization is incredibly important. Enabling a larger variety of cultures ease of use would greatly affect the amount of people who would actually be willing to use this tool. Since some other cultures use different formatting of dates, time, etc., or even symbols having different meanings. ]
+[Since my proposed tool is aimed at helping tourists in Iligan City, having proper localization is incredibly important. Enabling a larger variety of cultures ease of use would greatly affect the amount of people who would actually be willing to use this tool. Since some other cultures use different formatting of dates, time, etc., or even symbols having different meanings.]
 
 ---
 
@@ -69,7 +69,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+[Asking first-time users of the map tool to provide a star rating and/or review after successfully reaching an event destination via the route system  ]
 
 ---
 
@@ -84,7 +84,7 @@ You may include **one screenshot** or reference image only if it does not contai
 -->
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+[None.]
 
 ---
 
